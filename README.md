@@ -5,7 +5,7 @@ Please reference this work if any part of it is used elsewhere: DOI: 10.1142/S17
 
 Fu P, Wen Y, Zhang Y, et al. SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure[J]. Journal of Innovative Optical Health Sciences, 2022, 15(03): 2250021.[paper](https://www.worldscientific.com/doi/10.1142/S1793545822500213)
 
-
+[<sup>1</sup>](#refer-id)
 @article{fu2022spectratr,
   title={SpectraTr: A novel deep learning model for qualitative analysis of drug spectroscopy based on transformer structure},
   author={Fu, Pengyou and Wen, Yue and Zhang, Yuke and Li, Lingqiao and Feng, Yanchun and Yin, Lihui and Yang, Huihua},
@@ -16,6 +16,7 @@ Fu P, Wen Y, Zhang Y, et al. SpectraTr: A novel deep learning model for qualitat
   year={2022},
   publisher={World Scientific}
 }
+<div id="refer-id"></div>
 
 
 # ABSTRACT:
