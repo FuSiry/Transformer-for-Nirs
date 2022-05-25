@@ -38,4 +38,5 @@ then put it Transformer\model\Table and run TableVitRun.py
 # the reslut 
 <img width="2000" alt="4893faa64a630a5a46d24537c278efc" src="https://user-images.githubusercontent.com/56440282/170207738-432f7b0c-53cf-4569-8d90-afc1cb2f428b.png">
 <img width="787" alt="a3c8569adcb7348b032ac2f75e97ceb" src="https://user-images.githubusercontent.com/56440282/170207771-c9c2a0eb-05d4-4869-bb33-578433ec8cd5.png">
-![image](https://user-images.githubusercontent.com/56440282/170207932-884de0d1-51f0-4c32-a2fb-50dff7688644.png)
+![image](https://user-images.githubusercontent.com/56440282/170208216-4d594f17-de9b-4d83-8e6a-c83941f7e88e.png)
+
