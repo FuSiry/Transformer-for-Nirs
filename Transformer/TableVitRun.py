@@ -99,7 +99,7 @@ def modeltrian(tp, EPOCH, LR, test_ratio, start, end, ncls, psize, depth, heads,
                     # f1.flush()
                     sum_loss.append(loss.item())
                 avg_loss = np.mean(sum_loss)
-                scheduler.step(avg_loss)
+
 
                 with torch.no_grad():  # 无梯度
                     test_loss = []
@@ -121,10 +121,7 @@ def modeltrian(tp, EPOCH, LR, test_ratio, start, end, ncls, psize, depth, heads,
                         # f2.flush()
             # 将每次测试结果实时写入acc.txt文件中
 
-                early_stopping(np.mean(test_loss), model)
-                if early_stopping.early_stop:
-                    print(f'Early stopping! Best validation loss: {early_stopping.get_best_score()}')
-                    break
+
 
 def modeltest(tp, test_ratio, start, end, ncls, psize, depth, heads, mlp_dim, path):
     # _, data_test = DataLoad('tou', test_ratio, start, end)
