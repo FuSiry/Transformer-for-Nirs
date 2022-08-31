@@ -34,6 +34,10 @@ step1: run TableVitRun.py
 ```
 you can install from 链接：https://pan.baidu.com/s/16-8xUamOZQkMb3sMLAHz1g  提取码：5jfk
 then put it Transformer\model\Table and run TableVitRun.py
+
+Updated on August 31, 2022: the download address of the model was revised to solve the problem of invalid download link
+new download link:链接：https://pan.baidu.com/s/1tJYsoZ-NdnFQKPWsKvocrA 
+提取码：fx0k
 ```
 # the reslut 
 <img width="2000" alt="4893faa64a630a5a46d24537c278efc" src="https://user-images.githubusercontent.com/56440282/170207738-432f7b0c-53cf-4569-8d90-afc1cb2f428b.png">
